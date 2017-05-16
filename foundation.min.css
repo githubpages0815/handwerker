@@ -1708,7 +1708,7 @@ i {
 }
 strong,
 b {
-    font-weight: bold;
+    font-weight: normal;
     line-height: inherit
 }
 small {
